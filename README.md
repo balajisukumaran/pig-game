@@ -1,4 +1,4 @@
-# piggame.github.io
+# piggame
 
 Piggame
 
